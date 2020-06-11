@@ -1,0 +1,34 @@
+h1{
+	color: blue;
+}
+.head1{
+	color: red;
+}
+.big_font{
+	font-size: 40px;
+}
+#head{
+	border: 5px red solid;
+}
+.display{
+	display: inline-block;
+}
+.box1{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+.box2{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	padding: 100px 50px 30px;
+}
+.padding{
+	padding: 30px;
+	border: 5px solid red;
+	margin: 50px;
+}
+.name1{
+	color: #FF007F;
+}
